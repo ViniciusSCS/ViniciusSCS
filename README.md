@@ -25,6 +25,10 @@
   <code><img title="Meu E-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
 
+<a href="http://engenheirocompvinicius.com.br/">
+  <code><img title="Meu Portfólio" width="32" src="https://image.flaticon.com/icons/png/128/2920/2920242.png" /></code>
+</a>
+
 <br/><br/>
 
 ## My Development Stack
