@@ -7,10 +7,10 @@
   Me chamo Vinícius Sarmento, sou Desenvolvedor Web Full Stack.
 </p>
 
-[![Meu Status](https://github-readme-stats.vercel.app/api?username=ViniciusSCS&show_icons=true&theme=default)](https://github.com/deetoo/)
+[![Meu Status](https://github-readme-stats.vercel.app/api?username=ViniciusSCS&show_icons=true&theme=default)](https://github.com/ViniciusSCS/)
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ViniciusSCS)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ViniciusSCS)](https://github.com/ViniciusSCS/)
 
 <br/>
 
