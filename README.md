@@ -22,7 +22,7 @@
 </a>
 
 <a href="mailto:vinicius.eng.comp92@gmail.com">
-  <code><img title="Meu E-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img title="Meu E-mail" width="32" src="https://img-premium.flaticon.com/png/512/2875/premium/2875394.png?token=exp=1631212336~hmac=f636c95202d42bfe6d0e8ed4a6bd15f6" /></code>
 </a>
 
 <a href="http://engenheirocompvinicius.com.br/">
