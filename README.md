@@ -18,11 +18,11 @@
 ### Onde pode me encontrar:
 
 <a href="https://www.linkedin.com/in/viniciusscs/">
-  <code><img title="Meu LinkedIn" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img title="Meu LinkedIn" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></code>
 </a>
 
 <a href="mailto:vinicius.eng.comp92@gmail.com">
-  <code><img title="Meu E-mail" width="32" src="https://img-premium.flaticon.com/png/512/2875/premium/2875394.png?token=exp=1631212336~hmac=f636c95202d42bfe6d0e8ed4a6bd15f6" /></code>
+  <code><img title="Meu E-mail" width="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?token=exp=1631212336~hmac=f636c95202d42bfe6d0e8ed4a6bd15f6" /></code>
 </a>
 
 <a href="http://engenheirocompvinicius.com.br/">
